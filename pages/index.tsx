@@ -14,7 +14,7 @@ const Home: NextPage = () => {
         <a className= 'cursor-pointer'> Ir para usuarios </a>
       </Link>
       <div>
-        <i className ='fas fa.atom' />
+       <i className="fas fa-atom"></i>
       </div>
     </div>
   )
