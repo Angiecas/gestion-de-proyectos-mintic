@@ -6,9 +6,9 @@ import Head from 'next/head';
 const index = () => {
     return (
         <div>
-            <head>
+            <Head>
                 <title>Admin Usuario</title>
-            </head>
+            </Head>
             <div>Página del admin de usuario</div>
             <Link href= "/">
             <a>Ir al home</a>
